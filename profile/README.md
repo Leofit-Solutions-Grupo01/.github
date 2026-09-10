@@ -76,7 +76,7 @@ Sistema interno de gestión de pedidos desarrollado en **Python** 🐍
 
 <div align="center">
 
-| 🎯 **Misión** | 🚀 **Visión** | 💎 **Valores** |
+| **Misión** | **Visión** | **Valores** |
 |:---:|:---:|:---:|
 | Ofrecer ropa deportiva de calidad con la mejor atención al cliente | Ser la marca referente de moda gym en todo el Perú | Calidad, confianza, innovación y servicio |
 
