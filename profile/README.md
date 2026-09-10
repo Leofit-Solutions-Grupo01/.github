@@ -8,20 +8,6 @@
 
 ---
 
-![Envíos](https://img.shields.io/badge/🚚_Envíos-Todo_el_Perú-FF6B6B?style=for-the-badge)
-![Algodón](https://img.shields.io/badge/🧵_100%25-Algodón_Reactivo-4ECDC4?style=for-the-badge)
-![Tallas](https://img.shields.io/badge/📏_Tallas-S_|_M_|_L-FFE66D?style=for-the-badge)
-
----
-
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-933_948_413-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51933948413)
-[![WhatsApp Alt](https://img.shields.io/badge/💬_WhatsApp_Alt-999_221_208-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51999221208)
-[![Facebook](https://img.shields.io/badge/📘_Facebook-leofitLMD-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/leofitLMD)
-
-</div>
-
----
-
 ## 🌟 ¿Por qué elegirnos?
 
 <div align="center">
