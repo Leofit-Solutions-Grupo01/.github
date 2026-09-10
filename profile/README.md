@@ -60,8 +60,6 @@
 
 Sistema interno de gestión de pedidos desarrollado en **Python** 🐍
 
-[![Ver Repositorio](https://img.shields.io/badge/📂_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leofit-Solutions-Grupo01/leofit-pedidos-sistema)
-
 </div>
 
 ---
