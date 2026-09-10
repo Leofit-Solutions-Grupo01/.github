@@ -1,29 +1,27 @@
-# LeoFit & LMD 👕💪
+👕 LeoFit & LMD 💪
+<p align="center"> <strong>Venta de polos y ropa deportiva/gym para damas y caballeros</strong><br> <em>Calidad que se siente, estilo que se nota.</em> </p><p align="center"> <img src="https://img.shields.io/badge/Envíos-Todo_el_Perú-FF6B6B?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Envíos a todo el Perú"> <img src="https://img.shields.io/badge/Algodón-100%25_Reactivo-4ECDC4?style=for-the-badge" alt="100% Algodón Reactivo"> <img src="https://img.shields.io/badge/Tallas-S_|_M_|_L-FFE66D?style=for-the-badge&logoColor=black" alt="Tallas S M L"> </p><p align="center"> <a href="https://wa.me/51933948413"> <img src="https://img.shields.io/badge/WhatsApp-933_948_413-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"> </a> <a href="https://wa.me/51999221208"> <img src="https://img.shields.io/badge/WhatsApp_Alt-999_221_208-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Alternativo"> </a> <a href="https://www.facebook.com/leofitLMD"> <img src="https://img.shields.io/badge/Facebook-leofitLMD-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> </a> </p>
+🌟 ¿Por qué elegirnos?
+<table> <tr> <td align="center" width="25%"> <h3>🧵</h3> <strong>100% Algodón Reactivo</strong><br> <sub>Suavidad y durabilidad en cada prenda</sub> </td> <td align="center" width="25%"> <h3>📏</h3> <strong>Tallas S – M – L</strong><br> <sub>Encuentra tu fit perfecto</sub> </td> <td align="center" width="25%"> <h3>✨</h3> <strong>Diseños Exclusivos</strong><br> <sub>Colecciones nuevas cada temporada</sub> </td> <td align="center" width="25%"> <h3>🚚</h3> <strong>Envíos a Todo el Perú</strong><br> <sub>Llegamos donde estés</sub> </td> </tr> </table>
+🛍️ Nuestros Productos
+Producto	Descripción	Tallas
+👕 Polos Deportivos	100% algodón reactivo, ideales para gym y uso diario	S – M – L
+🏋️ Ropa Gym	Diseñada para máximo rendimiento y comodidad	S – M – L
+👚 Moda Casual	Estilos exclusivos para damas y caballeros	S – M – L
+💡 ¿Buscas algo específico? Escríbenos por WhatsApp y te ayudamos a encontrarlo.
 
-**Venta de polos y ropa deportiva/gym para damas y caballeros.**
+📞 Contacto y Pedidos
+<table> <tr> <td align="center"> <a href="https://wa.me/51933948413"> <img src="https://img.shields.io/badge/📱_WhatsApp_Principal-933_948_413-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Principal"> </a> </td> <td align="center"> <a href="https://wa.me/51999221208"> <img src="https://img.shields.io/badge/📱_WhatsApp_Alternativo-999_221_208-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Alternativo"> </a> </td> </tr> <tr> <td align="center" colspan="2"> <a href="https://www.facebook.com/leofitLMD"> <img src="https://img.shields.io/badge/📘_Facebook-leofitLMD-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> </a> </td> </tr> </table>
+Horario de atención: Lunes a Sábado | 9:00 AM – 8:00 PM
 
-- 🧵 Polos 100% algodón reactivo
-- 📏 Tallas S – M – L
-- ✨ Colecciones nuevas y modelos exclusivos
-- 🚚 Envíos a todo el Perú
+🛠️ Nuestros Proyectos
+<table> <tr> <td> <h3>📦 leofit-pedidos-sistema</h3> <p>Sistema interno de gestión de pedidos desarrollado en <strong>Python</strong>.</p> <a href="https://github.com/Leofit-Solutions-Grupo01/leofit-pedidos-sistema"> <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositorio"> </a> </td> </tr> </table>
+🏢 Sobre la Organización
+<p align="center"> <strong>Leofit-Solutions-Grupo01</strong> es el equipo detrás de <strong>LeoFit & LMD</strong>. </p>
+Desarrollamos herramientas internas para optimizar la gestión de pedidos y la atención al cliente, combinando moda deportiva con tecnología.
 
----
-
-## 📞 Contacto
-
-- 💬 WhatsApp: [933 948 413](https://wa.me/51933948413)
-- 💬 WhatsApp alternativo: [999 221 208](https://wa.me/51999221208)
-- 📘 Facebook: [leofitLMD](https://www.facebook.com/leofitLMD)
-
----
-
-## 🛠️ Proyectos
-
-- **[leofit-pedidos-sistema](https://github.com/Leofit-Solutions-Grupo01/leofit-pedidos-sistema)** — Sistema de gestión de pedidos (Python)
-
----
-
-## 🏢 Sobre la organización
-
-Somos **Leofit-Solutions-Grupo01**, el equipo detrás de **LeoFit & LMD**.
-Desarrollamos herramientas internas para optimizar la gestión de pedidos y la atención al cliente.
+<table> <tr> <td align="center"> <h4>🎯 Misión</h4> <sub>Ofrecer ropa deportiva de calidad con la mejor atención al cliente</sub> </td> <td align="center"> <h4>🚀 Visión</h4> <sub>Ser la marca referente de moda gym en todo el Perú</sub> </td> <td align="center"> <h4>💎 Valores</h4> <sub>Calidad, confianza, innovación y servicio</sub> </td> </tr> </table>
+👥 Nuestro Equipo
+<p align="center"> <a href="https://github.com/luzylay"> <img src="https://img.shields.io/badge/luzylay-Owner-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="luzylay"> </a> <a href="https://github.com/VictorCardenazFernandez"> <img src="https://img.shields.io/badge/VictorCardenazFernandez-Member-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="VictorCardenazFernandez"> </a> <a href="https://github.com/Daniel102608"> <img src="https://img.shields.io/badge/Daniel102608-Member-FFE66D?style=for-the-badge&logo=github&logoColor=black" alt="Daniel102608"> </a> <a href="https://github.com/Jim4279"> <img src="https://img.shields.io/badge/Jim4279-Member-95E1D3?style=for-the-badge&logo=github&logoColor=black" alt="Jim4279"> </a> </p>
+📊 Estadísticas de la Organización
+<p align="center"> <img src="https://img.shields.io/badge/Repositorios-2-blue?style=for-the-badge&logo=github" alt="Repositorios"> <img src="https://img.shields.io/badge/Miembros-4-green?style=for-the-badge&logo=people" alt="Miembros"> <img src="https://img.shields.io/badge/Lenguaje_Principal-Python-yellow?style=for-the-badge&logo=python" alt="Python"> </p>
+<p align="center"> <strong>¡Gracias por visitar LeoFit & LMD!</strong><br> <sub>Hecho con ❤️ en Perú 🇵🇪</sub> </p><p align="center"> <a href="https://wa.me/51933948413"> <img src="https://img.shields.io/badge/¡Pide_ahora_por_WhatsApp!-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Pide ahora"> </a> </p>
