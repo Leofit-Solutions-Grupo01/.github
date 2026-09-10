@@ -34,7 +34,7 @@
 
 ---
 
-## 🛍️ Nuestros Productos
+## Nuestros Productos
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
 ---
 
-## 🛠️ Nuestros Proyectos
+## Nuestros Proyectos
 
 <div align="center">
 
@@ -80,7 +80,7 @@ Sistema interno de gestión de pedidos desarrollado en **Python** 🐍
 
 ---
 
-## 🏢 Sobre la Organización
+## Sobre la Organización
 
 <div align="center">
 
@@ -100,7 +100,7 @@ Sistema interno de gestión de pedidos desarrollado en **Python** 🐍
 
 ---
 
-## 👥 Nuestro Equipo
+## Nuestro Equipo
 
 <div align="center">
 
@@ -113,7 +113,7 @@ Sistema interno de gestión de pedidos desarrollado en **Python** 🐍
 
 ---
 
-## 📊 Estadísticas
+## Estadísticas
 
 <div align="center">
 
@@ -128,8 +128,6 @@ Sistema interno de gestión de pedidos desarrollado en **Python** 🐍
 <div align="center">
 
 ## ¡Gracias por visitar LeoFit & LMD!
-
-**Hecho con ❤️ en Perú 🇵🇪**
 
 [![Pide ahora](https://img.shields.io/badge/💬_¡Pide_ahora_por_WhatsApp!-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51933948413)
 
